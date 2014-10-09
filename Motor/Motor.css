@@ -1,3 +1,13 @@
-div [role=main]{
+div{
+    text-align: center;
+    margin: auto;
+}
 
+p{
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+}
+#the {
+    font-style: italic;
 }
