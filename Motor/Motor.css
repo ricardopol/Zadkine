@@ -6,11 +6,32 @@ div{
     margin-right: 200px;
 }
 
-p{
-    font-weight: bold;
+p {
     text-align: center;
     display: inline-block;
 }
-#the {
+.first{
+    font-weight: bold;
+}
+.the {
     font-style: italic;
+}
+img{
+    width: 600px;
+}
+.picture{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p.p1{
+    width: 200px;
+    text-align: left;
+    font-weight: bold;
+}
+p.p2{
+    width: 200px;
+    text-align: left;
+}
+p.p3{
+    width: 200px;
 }
