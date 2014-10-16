@@ -1,16 +1,47 @@
 div{
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin: 100px 400px;
 }
 
-p{
-    font-weight: bold;
-    text-align: center;
+p {
     display: inline-block;
 }
-#the {
+
+.first{
+    font-weight: bold;
+}
+
+.the {
     font-style: italic;
+}
+
+img{
+    width: 500px;
+}
+
+.picture{
+    margin: 0px;
+
+}
+
+.alinea1{
+    width: 200px;
+    margin: 0px;
+    text-align: left;
+    display: inline-block;
+}
+
+p.p1{
+    font-weight: bold;
+}
+
+.alinea2{
+    width: 200px;
+    margin: 0px;
+    text-align: left;
+    display: inline-block;
+}
+
+p.p4{
+    text-align: center;
 }
