@@ -101,11 +101,19 @@ p{
     border-radius: 10px;
 }
 
+.pictures {
+    position: fixed;
+    left: 50%;
+    top: 20%;
+}
+
 .pic {
     display: inline-block;
     position: fixed;
+    float: right;
     left: 50%;
-    top: 13%;
-    height: 25%;
+    top: 15%;
+    height: 153px;
     border-radius: 10px;
+    margin-right: 5%;
 }
