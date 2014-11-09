@@ -106,5 +106,6 @@ p{
     position: fixed;
     left: 50%;
     top: 13%;
+    height: 25%;
     border-radius: 10px;
 }
