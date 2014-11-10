@@ -117,3 +117,14 @@ p{
     border-radius: 10px;
     margin-right: 5%;
 }
+
+.mail {
+    display: inline-block;
+    position: fixed;
+    float: left;
+    left: 3%;
+    bottom: 0%;
+    height: 75px;
+    border-radius: 10px;
+    margin-right: 5%;
+}
