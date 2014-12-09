@@ -129,24 +129,8 @@ p{
     margin-right: 5%;
 }
 
-.blog {
-    height: 60%;
-    width: 40%;
-    border: 2px solid lightgrey;
-    border-radius: 10px;
-    display: inline-block;
-    position: fixed;
-    top: 180px;
-    left: 55%;
-}
-
 .form {
-    height: 25%;
-    width: 30%;
     border: 2px solid lightgrey;
     border-radius: 10px;
     display: inline-block;
-    position: fixed;
-    top: 180px;
-    left: 250px;
 }
